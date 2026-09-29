@@ -16,7 +16,7 @@ Get-ChildItem $filesRoot -Recurse -File | ForEach-Object {
             size = $_.Length
             MD5  = $hash
             path = $relativePath
-            url  = "PLACEHOLDER_URL/files/$relativePath"
+            url  = "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/$relativePath"
         }
     }
 }
@@ -29,7 +29,7 @@ $fabric = [ordered]@{
     artifact = [ordered]@{
         size = 1944518
         MD5  = "56c00fa22e0452e8567be1feae73c3b9"
-        url  = "PLACEHOLDER_URL/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+        url  = "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
     }
 
     subModules = @(
@@ -41,7 +41,7 @@ $fabric = [ordered]@{
             artifact = [ordered]@{
                 size = 4874
                 MD5  = "6bd7d56e3c4453ece93e841fb0155f14"
-                url  = "PLACEHOLDER_URL/versions/1.21.1-fabric-0.18.4/1.21.1-fabric-0.18.4.json"
+                url  = "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/versions/1.21.1-fabric-0.18.4/1.21.1-fabric-0.18.4.json"
             }
         }
     )
