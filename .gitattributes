@@ -1,0 +1,2 @@
+repo/files/resourcepacks/COBBLEVERSE[[:space:]]Soundtrack.zip filter=lfs diff=lfs merge=lfs -text
+repo/files/mods/Cobblemon-fabric-1.7.3+1.21.1.jar filter=lfs diff=lfs merge=lfs -text
