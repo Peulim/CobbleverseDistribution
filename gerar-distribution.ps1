@@ -1,11 +1,16 @@
-$filesRoot = "C:\CobbleverseDistribution\repo\files"
+﻿$filesRoot = "C:\CobbleverseDistribution\repo\files"
 
 $modules = @()
+
+$lfsPaths = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
+& git -C 'C:\CobbleverseDistribution' lfs ls-files -n | ForEach-Object { [void]$lfsPaths.Add($_) }
 
 Get-ChildItem $filesRoot -Recurse -File | ForEach-Object {
 
     $relativePath = $_.FullName.Substring($filesRoot.Length + 1).Replace("\", "/")
    $hash = (Get-FileHash -LiteralPath $_.FullName -Algorithm MD5).Hash.ToLower()
+    $repoPath = "repo/files/$relativePath"
+    $baseUrl = if ($lfsPaths.Contains($repoPath)) { "https://media.githubusercontent.com/media/Peulim/CobbleverseDistribution/main/repo/files" } else { "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files" }
 
     $modules += [ordered]@{
         id   = "cobbleverse:$($relativePath.Replace('/', '_'))"
@@ -16,7 +21,7 @@ Get-ChildItem $filesRoot -Recurse -File | ForEach-Object {
             size = $_.Length
             MD5  = $hash
             path = $relativePath
-            url  = "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/$relativePath"
+            url  = "$baseUrl/$relativePath"
         }
     }
 }
