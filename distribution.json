@@ -1453,6 +1453,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "cobbleverse:config_defaultoptions_extra_config_DistantHorizons.toml",
+                                            "name":  "DistantHorizons.toml",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  61,
+                                                             "MD5":  "45651b12f709ede979bebb4374cdf1c1",
+                                                             "path":  "config/defaultoptions/extra/config/DistantHorizons.toml",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/defaultoptions/extra/config/DistantHorizons.toml"
+                                                         }
+                                        },
+                                        {
                                             "id":  "cobbleverse:config_euphoria_patcher_settings.toml",
                                             "name":  "settings.toml",
                                             "type":  "File",
@@ -2971,6 +2982,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "cobbleverse:mods_carryon-fabric-1.21.1-2.2.6.13.jar",
+                                            "name":  "carryon-fabric-1.21.1-2.2.6.13.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  365419,
+                                                             "MD5":  "5385d59b5606827ab21a5e38f304e167",
+                                                             "path":  "mods/carryon-fabric-1.21.1-2.2.6.13.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/carryon-fabric-1.21.1-2.2.6.13.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "cobbleverse:mods_Carved Wood-fabric-1.21.1-1.9.7-B.jar",
                                             "name":  "Carved Wood-fabric-1.21.1-1.9.7-B.jar",
                                             "type":  "File",
@@ -3213,6 +3235,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "cobbleverse:mods_DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+                                            "name":  "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  28289212,
+                                                             "MD5":  "578523767ee8cef71a9933a79126f67b",
+                                                             "path":  "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "cobbleverse:mods_entityculling-fabric-1.10.5-mc1.21.1.jar",
                                             "name":  "entityculling-fabric-1.10.5-mc1.21.1.jar",
                                             "type":  "File",
@@ -3430,6 +3463,17 @@
                                                              "MD5":  "ff2f33b4f400d9ccf3bc6e160246b101",
                                                              "path":  "mods/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "cobbleverse:mods_immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+                                            "name":  "immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  124688,
+                                                             "MD5":  "6176efb7acd0d59265e76d5c77ae77b8",
+                                                             "path":  "mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar"
                                                          }
                                         },
                                         {
@@ -3763,6 +3807,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "cobbleverse:mods_open-parties-and-claims-fabric-1.21.1-0.31.6.jar",
+                                            "name":  "open-parties-and-claims-fabric-1.21.1-0.31.6.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  1911527,
+                                                             "MD5":  "e9a2a2c6e34f71ddb96691b147860bfc",
+                                                             "path":  "mods/open-parties-and-claims-fabric-1.21.1-0.31.6.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/open-parties-and-claims-fabric-1.21.1-0.31.6.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "cobbleverse:mods_owo-lib-0.12.15.4+1.21.jar",
                                             "name":  "owo-lib-0.12.15.4+1.21.jar",
                                             "type":  "File",
@@ -3881,6 +3936,28 @@
                                                              "MD5":  "a576344a9af471b67b47437adcdd2a63",
                                                              "path":  "mods/pokeblocks-1.4.0-1.21.1.jar",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/pokeblocks-1.4.0-1.21.1.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "cobbleverse:mods_punchy-2.8c-fabric-1.21.1.jar",
+                                            "name":  "punchy-2.8c-fabric-1.21.1.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  1858121,
+                                                             "MD5":  "4ba7b33180707e209a3bfdd80b46e7e2",
+                                                             "path":  "mods/punchy-2.8c-fabric-1.21.1.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/punchy-2.8c-fabric-1.21.1.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "cobbleverse:mods_raised-fabric-1.21.1-6.0.2.jar",
+                                            "name":  "raised-fabric-1.21.1-6.0.2.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  136748,
+                                                             "MD5":  "fe2e0e33cdb8ecd9a57c5f756144cbac",
+                                                             "path":  "mods/raised-fabric-1.21.1-6.0.2.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/raised-fabric-1.21.1-6.0.2.jar"
                                                          }
                                         },
                                         {
@@ -4170,6 +4247,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "cobbleverse:mods_TreeChop-1.21.1-fabric-0.19.3a.jar",
+                                            "name":  "TreeChop-1.21.1-fabric-0.19.3a.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  500212,
+                                                             "MD5":  "78b8d415f660bf9260c73ebaaf95635d",
+                                                             "path":  "mods/TreeChop-1.21.1-fabric-0.19.3a.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/TreeChop-1.21.1-fabric-0.19.3a.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "cobbleverse:mods_trinkets-3.10.0.jar",
                                             "name":  "trinkets-3.10.0.jar",
                                             "type":  "File",
@@ -4200,6 +4288,17 @@
                                                              "MD5":  "8e0bad0a69dbdd8abb8755c7bfc0e989",
                                                              "path":  "mods/villagerconfig-fabric-4.5.4+1.21.1.jar",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/villagerconfig-fabric-4.5.4+1.21.1.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "cobbleverse:mods_voicechat-fabric-1.21.1-2.6.24.jar",
+                                            "name":  "voicechat-fabric-1.21.1-2.6.24.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  5386871,
+                                                             "MD5":  "89122ad6484ca34300f03beab09833db",
+                                                             "path":  "mods/voicechat-fabric-1.21.1-2.6.24.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/voicechat-fabric-1.21.1-2.6.24.jar"
                                                          }
                                         },
                                         {
@@ -4299,17 +4398,6 @@
                                                              "MD5":  "3f9942822210093cd9bed79ce3ae8a0c",
                                                              "path":  "resourcepacks/Cobblemon 3D Poké Rods 1.0.zip",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/resourcepacks/Cobblemon 3D Poké Rods 1.0.zip"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "cobbleverse:resourcepacks_Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
-                                            "name":  "Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  7538,
-                                                             "MD5":  "b3e28f8fb151f09ca368e66960758b4d",
-                                                             "path":  "resourcepacks/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
-                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/resourcepacks/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip"
                                                          }
                                         },
                                         {
@@ -4464,6 +4552,17 @@
                                                              "MD5":  "8ecfd25956194f46194c2129f45dbcb2",
                                                              "path":  "resourcepacks/Icon Fresh 0.4.zip",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/resourcepacks/Icon Fresh 0.4.zip"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "cobbleverse:resourcepacks_[Chilli´s] punchy! cobblemon.zip",
+                                            "name":  "[Chilli´s] punchy! cobblemon.zip",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  2666928,
+                                                             "MD5":  "9c9ba5765e078182dbc453f6a169c0dc",
+                                                             "path":  "resourcepacks/[Chilli´s] punchy! cobblemon.zip",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/resourcepacks/[Chilli´s] punchy! cobblemon.zip"
                                                          }
                                         },
                                         {
@@ -18050,28 +18149,6 @@
                                                              "path":  "shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_translucent.glsl",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_translucent.glsl"
                                                          }
-                                        },
-                                        {
-                                          "id": "cobbleverse:mods_DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-                                          "name": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-                                          "type": "File",
-                                          "artifact": {
-                                            "size": 28289212,
-                                            "MD5": "578523767ee8cef71a9933a79126f67b",
-                                            "path": "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-                                            "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
-                                          }
-                                        },
-                                        {
-                                          "id": "cobbleverse:config_defaultoptions_extra_config_DistantHorizons.toml",
-                                          "name": "DistantHorizons.toml",
-                                          "type": "File",
-                                          "artifact": {
-                                            "size": 61,
-                                            "MD5": "45651b12f709ede979bebb4374cdf1c1",
-                                            "path": "config/defaultoptions/extra/config/DistantHorizons.toml",
-                                            "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/defaultoptions/extra/config/DistantHorizons.toml"
-                                          }
                                         }
                                     ]
                     }
