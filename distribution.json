@@ -313,8 +313,8 @@
                                             "name":  "defaultoptions-common.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  1360,
-                                                             "MD5":  "5c7496dfe9a988d352841fd475bc8017",
+                                                             "size":  1347,
+                                                             "MD5":  "fcb24e4dc36a3fcedefa892adb715828",
                                                              "path":  "config/defaultoptions-common.toml",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/defaultoptions-common.toml"
                                                          }
@@ -852,8 +852,8 @@
                                             "name":  "resourcepackoverrides.json",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  6923,
-                                                             "MD5":  "fda193471ba8aef22307577fe4b8fdff",
+                                                             "size":  7091,
+                                                             "MD5":  "27a0b513b018684232918eb7f58f0e5e",
                                                              "path":  "config/resourcepackoverrides.json",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/resourcepackoverrides.json"
                                                          }
@@ -1435,8 +1435,8 @@
                                             "name":  "options.txt",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  1448,
-                                                             "MD5":  "e5897a9e7e245d5a97c6ec1f30acd75b",
+                                                             "size":  1435,
+                                                             "MD5":  "8f26a8f053a2d347bb6b00175ac07088",
                                                              "path":  "config/defaultoptions/options.txt",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/defaultoptions/options.txt"
                                                          }

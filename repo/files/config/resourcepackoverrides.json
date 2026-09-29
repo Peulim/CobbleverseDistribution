@@ -11,7 +11,6 @@
     "continuity:glass_pane_culling_fix",
     "cobbreeding:coloredeggs",
     "file/Comforts Modernized - V1.1.zip",
-    "file/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
     "file/Cobblemon 3D Poké Rods 1.0.zip",
     "file/Cobblemon Interface v1.6.0.zip",
     "file/Cobblemon Interface Modded v1.9.4.zip",
@@ -30,7 +29,8 @@
     "file/E19 Cobblemon Minimap Icons.zip",
     "file/COBBLEVERSE Soundtrack.zip",
     "file/COBBLEVERSE RCTmod RP.zip",
-    "file/COBBLEVERSE RP [CF].zip"
+    "file/COBBLEVERSE RP [CF].zip",
+    "file/[Chilli´s] punchy! cobblemon.zip"
   ],
   "pack_overrides": {
     "file/COBBLEVERSE RP [CF].zip": {
@@ -116,10 +116,6 @@
       "title": "\"§e§lCobblemon 3D Poké Rods\"",
       "description": "\"§a✔ 3D models for Poké Rods\n§f© Akera099\""
     },
-    "file/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip": {
-      "title": "\"§e§lClassic Grass Pack\"",
-      "description": "\"§a✔ Pokémon Grass Textures\n§f© WizzStar\""
-    },
     "file/Comforts Modernized - V1.1.zip": {
       "title": "\"§e§lComforts Modernized\"",
       "description": "\"§a✔ Modern Comforts Textures\n§f© Pedro9006\"",
@@ -175,6 +171,10 @@
     },
     "vanillabackport:freshly_animated_legacy": {
       "hidden": true
+    },
+    "file/[Chilli´s] punchy! cobblemon.zip": {
+      "title": "\"§e§l[Chilli´s] Punchy! Cobblemon\"",
+      "description": "\"§a✔ Pokémon Punch integration resource pack\""
     }
   },
   "default_overrides": {
