@@ -18067,8 +18067,8 @@
                                           "name": "DistantHorizons.toml",
                                           "type": "File",
                                           "artifact": {
-                                            "size": 62,
-                                            "MD5": "9ef63a0c8cf8328ffa8027d4025453b0",
+                                            "size": 61,
+                                            "MD5": "45651b12f709ede979bebb4374cdf1c1",
                                             "path": "config/defaultoptions/extra/config/DistantHorizons.toml",
                                             "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/defaultoptions/extra/config/DistantHorizons.toml"
                                           }
