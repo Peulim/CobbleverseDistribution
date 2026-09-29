@@ -18061,6 +18061,17 @@
                                             "path": "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
                                             "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
                                           }
+                                        },
+                                        {
+                                          "id": "cobbleverse:config_defaultoptions_extra_config_DistantHorizons.toml",
+                                          "name": "DistantHorizons.toml",
+                                          "type": "File",
+                                          "artifact": {
+                                            "size": 62,
+                                            "MD5": "9ef63a0c8cf8328ffa8027d4025453b0",
+                                            "path": "config/defaultoptions/extra/config/DistantHorizons.toml",
+                                            "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/defaultoptions/extra/config/DistantHorizons.toml"
+                                          }
                                         }
                                     ]
                     }
