@@ -1446,8 +1446,8 @@
                                             "name":  "servers.dat",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  17746,
-                                                             "MD5":  "62243e99e3f8ad4e1ee019cb7b38f325",
+                                                             "size":  109,
+                                                             "MD5":  "1e521cf542a20d947d211c6c637ca667",
                                                              "path":  "config/defaultoptions/servers.dat",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/defaultoptions/servers.dat"
                                                          }
