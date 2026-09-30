@@ -18160,6 +18160,17 @@
                                                              "path":  "mods/ExplorersCompass-1.21.1-2.6.0-fabric.jar",
                                                              "url":  "https://media.githubusercontent.com/media/Peulim/CobbleverseDistribution/main/repo/files/mods/ExplorersCompass-1.21.1-2.6.0-fabric.jar"
                                                          }
+                                        },
+                                        {
+                                            "id":  "cobbleverse:resourcepacks_Stay_True_1.21.zip",
+                                            "name":  "Stay_True_1.21.zip",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  2152322,
+                                                             "MD5":  "1743567759c02d1b7486f2109aad9860",
+                                                             "path":  "resourcepacks/Stay_True_1.21.zip",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/resourcepacks/Stay_True_1.21.zip"
+                                                         }
                                         }
                                     ]
                     }
