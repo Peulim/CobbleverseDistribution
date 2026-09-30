@@ -18149,6 +18149,17 @@
                                                              "path":  "shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_translucent.glsl",
                                                              "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_translucent.glsl"
                                                          }
+                                        },
+                                        {
+                                            "id":  "cobbleverse:mods_ExplorersCompass-1.21.1-2.6.0-fabric.jar",
+                                            "name":  "ExplorersCompass-1.21.1-2.6.0-fabric.jar",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  177481,
+                                                             "MD5":  "8d0e00c3ba9eda739762d5e5fe15900a",
+                                                             "path":  "mods/ExplorersCompass-1.21.1-2.6.0-fabric.jar",
+                                                             "url":  "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/mods/ExplorersCompass-1.21.1-2.6.0-fabric.jar"
+                                                         }
                                         }
                                     ]
                     }
