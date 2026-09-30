@@ -4100,7 +4100,8 @@
                                             "artifact":  {
                                                              "size":  1497631,
                                                              "MD5":  "9e3efafebf46eae20480c14a3c52f290",
-                                                             "url":  "https://github.com/Peulim/CobbleverseDistribution/raw/refs/heads/main/repo/files/mods/cobblemon_smartphone-fabric-1.1.3.jar"
+                                                             "path":  "mods/cobblemon_smartphone-fabric-1.1.3.jar",
+                                                             "url":  "https://media.githubusercontent.com/media/Peulim/CobbleverseDistribution/main/repo/files/mods/cobblemon_smartphone-fabric-1.1.3.jar"
                                                          }
                                         },
                                         {
