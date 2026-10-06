@@ -96,7 +96,7 @@
   "disableRoll": false,
   "displayControlSeconds": 0,
   "infiniteRideStamina": true,
-  "rememberRidingCamera": false,
+  "rememberRidingCamera": true,
   "enableInFlightDismounting": false,
   "enableDebugKeys": false,
   "despawnerNearDistance": 32.0,

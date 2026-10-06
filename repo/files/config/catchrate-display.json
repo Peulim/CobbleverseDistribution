@@ -2,7 +2,7 @@
   "hudAnchor": "BOTTOM_CENTER",
   "hudOffsetX": 0,
   "hudOffsetY": -50,
-  "hudEnabled": true,
+  "hudEnabled": false,
   "showOutOfCombat": true,
   "hideUnencounteredInfo": true,
   "debugLogging": false

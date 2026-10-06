@@ -115,6 +115,18 @@
           "price": 999
         }
       ]
+    },
+    {
+      "Bottle Caps": [
+        {
+          "item": "obc:bottle_cap",
+          "price": 30000
+        },
+        {
+          "item": "obc:bottle_cap_gold",
+          "price": 150000
+        }
+      ]
     }
   ]
 }

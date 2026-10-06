@@ -1,2 +1,11 @@
 [common.logging.warning]
 showGarbageCollectorWarning = false
+
+[common.multiThreading]
+numberOfThreads = 3
+threadRunTimeRatio = "1.0"
+
+[client.advanced.graphics.quality]
+lodChunkRenderDistanceRadius = 64
+verticalQuality = "HIGH"
+horizontalQuality = "HIGH"
