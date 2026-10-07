@@ -203,8 +203,8 @@
           "name": "catchrate-display.json",
           "type": "File",
           "artifact": {
-            "size": 183,
-            "MD5": "a9c31c21586215653ed11090a17a6675",
+            "size": 182,
+            "MD5": "2cdf5c07daa6170a807f64644484ad32",
             "path": "config/catchrate-display.json",
             "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/catchrate-display.json"
           }
