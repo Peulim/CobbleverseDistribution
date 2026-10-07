@@ -247,8 +247,8 @@
           "name": "cobblemon-battle-extras.json",
           "type": "File",
           "artifact": {
-            "size": 4040,
-            "MD5": "d483d536f8cf9e5490a617c61ce1a396",
+            "size": 4039,
+            "MD5": "48f62e8410541eb1b300e936b301e1c3",
             "path": "config/cobblemon-battle-extras.json",
             "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/cobblemon-battle-extras.json"
           }

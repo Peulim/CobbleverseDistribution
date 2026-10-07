@@ -59,7 +59,7 @@
   "enableSwitchTooltips": false,
   "showSwitchTooltipDamageRange": false,
   "enableSwitchMatchupBorder": false,
-  "enableMoveDamageRange": false,
+  "enableMoveDamageRange": true,
   "enableInstantNPCForfeit": false,
   "enableBattleLogChatMessages": false,
   "enableInstantWildRun": true,
