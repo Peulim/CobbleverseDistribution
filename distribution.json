@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "servers": [
     {
       "id": "Cobbleverse-1.21.1",
       "name": "Cobbleverse",
       "description": "Cobbleverse - Pokemon Adventure",
-      "version": "2026.10.06",
+      "version": "2026.10.06.1",
       "address": "enx-soc-12.enx.host:10015",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -1721,8 +1721,8 @@
           "name": "cobbleverse_main_curseforge.txt",
           "type": "File",
           "artifact": {
-            "size": 68968,
-            "MD5": "fac1d928ae890002f46c96ec03928963",
+            "size": 67309,
+            "MD5": "f250434bb79506ade197fcd775fe56ee",
             "path": "config/fancymenu/customization/cobbleverse_main_curseforge.txt",
             "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/config/fancymenu/customization/cobbleverse_main_curseforge.txt"
           }
@@ -18995,6 +18995,17 @@
             "MD5": "5214f3a3fb889a0b58cf2cee4e086b9d",
             "path": "shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_translucent.glsl",
             "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/repo/files/shaderpacks/COBBLEVERSE - Shaders (High Quality)/shaders/world1/voxy_translucent.glsl"
+          }
+        },
+        {
+          "id": "cobbleverse:config_fancymenu_assets_cobbleverse_home_background.png",
+          "name": "launcher-cobbleverse_home_background.png",
+          "type": "File",
+          "artifact": {
+            "path": "config/fancymenu/assets/cobbleverse_home_background.png",
+            "url": "https://raw.githubusercontent.com/Peulim/CobbleverseDistribution/main/config/fancymenu/assets/cobbleverse_home_background.png",
+            "size": 3991141,
+            "MD5": "053fccccc9510eb20b00d9c4369096a6"
           }
         }
       ]
